@@ -1,4 +1,4 @@
-## Interface: 11306
+## Interface: 20501
 ## Version: 1b 
 ## Title: GSL LC Tooltips
 ## Notes: Helper tool for GSL LC/
