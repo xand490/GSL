@@ -1,0 +1,10 @@
+## Interface: 11306
+## Version: 1b 
+## Title: GSL LC Tooltips
+## Notes: Helper tool for GSL LC/
+## SavedVariables: ItemListsDB, GSLDB
+## OptionalDeps: Ace3
+## X-Embeds: Ace3
+
+embeds.xml
+core.lua
